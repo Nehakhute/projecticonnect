@@ -1,0 +1,31 @@
+.main-blk{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3B9AE1;
+}
+.table-blk{
+    width: 1400px;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 50px 50px 50px;
+}
+.search-input{
+    width: 400px;
+    height: 44px;
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.company-table{
+    border: 1px solid;
+    width: 1400px;
+    height: auto;
+    background-color: #fff;
+    padding: 10px 10px 10px 10px;
+    border: 1px gray;
+}
+.table-body{
+    text-align: center;
+}
